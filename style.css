@@ -1,0 +1,30 @@
+
+header{
+    background-color: #f4511e;
+}
+
+h1{
+    font-size: 63px;
+    color: #303030;
+    padding: 15px;
+    color: whitesmoke;
+    text-align: center;
+}
+h2{
+    font-size: 24;
+    text-transform: uppercase;
+    color: #303030;
+    font-weight: 600;
+
+}
+
+.carousel-caption h5{
+    font-size: 80px;
+    color: chocolate;
+    text-shadow: 2px 2px 2px black;
+}
+
+
+
+
+    
